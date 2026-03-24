@@ -70,6 +70,10 @@
     {
       "source": "/ai/shade-agents/:path*",
       "destination": "/ai/shade-agents/getting-started/introduction"
+    },
+    {
+      "source": "/chain-abstraction/meta-transactions",
+      "destination": "/protocol/transactions/meta-tx"
     }
   ],
   "navigation": {
