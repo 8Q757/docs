@@ -628,5 +628,10 @@
         ]
       }
     ]
+  },
+  "integrations": {
+    "ga4": {
+      "measurementId": "G-TMG0M3DPNW"
+    }
   }
 }
