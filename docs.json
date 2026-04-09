@@ -490,7 +490,7 @@
         "icon": "code",
         "groups": [
           {
-            "group": "Applications",
+            "group": "Apps DevKit",
             "pages": [
               "tools/near-connect",
               "tools/near-api",
@@ -498,7 +498,7 @@
             ]
           },
           {
-            "group": "Smart Contracts",
+            "group": "Contracts DevKit",
             "pages": [
               "tools/sdk",
               "tools/contracts-list",
