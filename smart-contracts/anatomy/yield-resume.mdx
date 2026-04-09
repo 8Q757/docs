@@ -2,6 +2,9 @@
 title: Yield and Resume
 description: "Wait for an external response and resume execution"
 ---
+
+import { Github } from '/snippets/github.jsx'
+
 NEAR smart contracts can **yield** execution, until an **external** service **resumes** them. In practice, the contract yields a **cross-contract call** to itself, until an external service executes a function and the contract decides to resume.
 
 This is a powerful feature that allows contracts to wait for external events, such as a response from an oracle, before continuing execution.
