@@ -74,6 +74,10 @@
     {
       "source": "/chain-abstraction/meta-transactions",
       "destination": "/protocol/transactions/meta-tx"
+    },
+    {
+      "source": "/protocol/access-keys",
+      "destination": "/protocol/accounts-contracts/access-keys"
     }
   ],
   "navigation": {
@@ -330,7 +334,7 @@
                       }
                     ]
                   }
-              ]
+                ]
               },
               {
                 "group": "Multi-Chain",
